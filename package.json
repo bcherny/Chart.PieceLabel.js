@@ -3,7 +3,9 @@
   "version": "0.8.2",
   "description": "PieceLabel plugin for Chart.js",
   "main": "src/Chart.PieceLabel.js",
+  "types": "src/Chart.PieceLabel.d.ts",
   "dependencies": {
+    "@types/chart.js": "^2.6.12",
     "chart.js": "^2.1.5"
   },
   "repository": {
